@@ -24,9 +24,8 @@ system information and monitors CPU, memory, and disk utilization.
 ## Sample Output
 
 ```text
-=============================
+
     LINUX SERVER  MONITOR
-=============================
 
 SYSTEM INFORMATION
 Server Name: Ashwanth
