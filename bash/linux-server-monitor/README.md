@@ -71,6 +71,6 @@ Disk Usage: 1%
 - `awk` processes command output and performs decimal calculations.
 - Bash conditional statements generate warnings when usage reaches the configured threshold.
 
-<img width="1331" height="605" alt="image" src="https://github.com/user-attachments/assets/4a2d23fc-82f5-412c-9bc0-4965a339224c" />
+
 
 
