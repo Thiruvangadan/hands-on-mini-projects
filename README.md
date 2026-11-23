@@ -9,7 +9,7 @@ built while learning Linux, Bash, Python, Git and DevOps.
 
 | Project | Description |
 |---|---|
-| [Linux-server-monitor](bash/linux-server-monitor/) | Analyse System usage |
+| [Linux-server-monitor](bash/linux-server-monitor/) | A Bash-based Linux server monitoring tool that tracks CPU, memory, and disk utilization. |
 
 ### Python
 
