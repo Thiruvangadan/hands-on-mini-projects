@@ -46,7 +46,6 @@ Memory Usage: 6%
 DISK UTILIZATION
 Disk Usage: 1%
 
-
 ```
 
 ## How It Works
