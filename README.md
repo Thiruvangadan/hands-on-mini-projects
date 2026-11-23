@@ -1,4 +1,4 @@
-# DevOps Hands-on Projects
+# Hands-on Projects
 
 A collection of small hands-on projects and experiments
 built while learning Linux, Bash, Python, Git and DevOps.
