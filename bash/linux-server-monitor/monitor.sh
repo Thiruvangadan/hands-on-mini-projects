@@ -13,13 +13,9 @@ MEM_PERCENT=$((USED_MEM * 100 / TOTAL_MEM))
 #Disk Information
 read DISK_USAGE <<< "$(df -h / | awk 'NR==2 {print $5}')"
 
-
-echo "============================="
 echo "    LINUX SERVER  MONITOR    "
-echo "============================="
-
-
 echo ""
+
 #Display System Information
 echo "SYSTEM INFORMATION"
 echo "Server Name: $HOST"
