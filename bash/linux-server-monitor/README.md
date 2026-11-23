@@ -21,10 +21,6 @@ system information and monitors CPU, memory, and disk utilization.
 - `util-linux` (for system utilities such as `lscpu`)
 - `gawk` or `mawk` (for `awk` calculations)
 
-```bash
-
-
-
 ## Sample Output
 
 ```text
