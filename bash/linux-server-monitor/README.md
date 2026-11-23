@@ -21,12 +21,8 @@ system information and monitors CPU, memory, and disk utilization.
 - `util-linux` (for system utilities such as `lscpu`)
 - `gawk` or `mawk` (for `awk` calculations)
 
-## How to Run
-
-Clone the repository:
-
 ```bash
-git clone https://github.com/YOUR_USERNAME/linux-server-monitor-bash.git
+
 
 
 ## Sample Output
